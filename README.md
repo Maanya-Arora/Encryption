@@ -13,5 +13,7 @@ For now, we are safe. Small RSA bit sizes can be cracked easily, even by regular
 ---
 
 ![image](https://github.com/Maanya-Arora/Encryption/assets/40130525/aad3a859-64a7-4766-87d7-aa4614a20548)
-## Larger key sizes take longer to break. 
-### Key sizes have needed to get larger because of the demand to make them impenetrable, because these secret keys protect highly personal information, from credit cards details saved on websites to bank account information online. 
+### Larger key sizes take longer to break. 
+Key sizes have needed to get larger because of the demand to make them impenetrable, because these secret keys protect highly personal information, from credit cards details saved on websites to bank account information online. 
+
+---
