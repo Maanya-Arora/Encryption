@@ -4,8 +4,8 @@ Security protocols provide privacy, authentication, and integrity to Internet co
 ---
 
 ## From the Quintessence Labs..
-> Funnily, Mahatma Gandhi’s quote fits this perfectly: “First they ignore you (Quantum Computers will never exist), then they  
-> laugh at you (really, you can factor the number 35? Cool…), then they fight you, then you win”.
+> "Funnily, Mahatma Gandhi’s quote fits this perfectly: “First they ignore you (Quantum Computers will never exist), then they  
+> laugh at you (really, you can factor the number 35? Cool…), then they fight you, then you win”."
 
 ---
 
