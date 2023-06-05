@@ -3,6 +3,12 @@ Security protocols provide privacy, authentication, and integrity to Internet co
 
 ---
 
+## From the Quintessence Labs..
+> Funnily, Mahatma Gandhi’s quote fits this perfectly: “First they ignore you (Quantum Computers will never exist), then they  
+> laugh at you (really, you can factor the number 35? Cool…), then they fight you, then you win”.
+
+---
+
 # Are we in danger now?
 
 The Scientific American doesn't seem to think so. An article detailing their understanding writes, 
@@ -12,8 +18,8 @@ For now, we are safe. Small RSA bit sizes can be cracked easily, even by regular
 
 ---
 
-![image](https://github.com/Maanya-Arora/Encryption/assets/40130525/aad3a859-64a7-4766-87d7-aa4614a20548)
-### Larger key sizes take longer to break. 
-Key sizes have needed to get larger because of the demand to make them impenetrable, because these secret keys protect highly personal information, from credit cards details saved on websites to bank account information online. 
+![image](https://github.com/Maanya-Arora/Encryption/assets/40130525/cdfe7824-faae-4ca0-a354-faac7ae199c9)
+### Larger key sizes take longer to break, but who knows how quickly an ideal quantum computer could get the job done?  
+Key sizes have needed to get larger because of the demand to make them impenetrable, because these secret keys protect highly personal information, from credit cards details saved on websites to bank account information online. We are secure and comforted in the idea that a regular computer will take 300 trillion years to crack a 2048 bit RSA code. Shor's algorithm makes it clear that 2048 bits is nothing to a quantum computer equipped with 4099 qubits, which simplifies complexity of the problem from exponential complexity (x^N) to polynomial complexity (N^x), where N is bit size. 
 
 ---
