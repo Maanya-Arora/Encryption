@@ -17,13 +17,13 @@ The Scientific American doesn't seem to think so. An article detailing their und
 For now, we are safe. Small RSA bit sizes can be cracked easily, even by regular humans and trial and error. However, larger codes just can't be cracked. In addition, many security experts have begun to favor alternatives to RSA, like Eliptic Curve Theory Equation, requiring hackers to compute an elliptic curve discrete logarithm, rather than factoring numbers based on the Diffie-Hellman exchange.
 
 ---
-![image](https://github.com/Maanya-Arora/Encryption/assets/40130525/998f5775-c77f-4c58-826a-0529845e8238)
-\nFor a normal computer, the computation time required to break RSA codes increases as the size of the RSA key increases. This is modeled by the graph shown. 
+![image](https://github.com/Maanya-Arora/Encryption/assets/40130525/998f5775-c77f-4c58-826a-0529845e8238)<br>
+For a normal computer, the computation time required to break RSA codes increases as the size of the RSA key increases. This is modeled by the graph shown. 
 
 ---
 
-![image](https://github.com/Maanya-Arora/Encryption/assets/40130525/cdfe7824-faae-4ca0-a354-faac7ae199c9)
-\nOver time, the number of qubits needed to break key exchange algorithms has greatly decreased. 
+![image](https://github.com/Maanya-Arora/Encryption/assets/40130525/cdfe7824-faae-4ca0-a354-faac7ae199c9)<br>
+Over time, the number of qubits needed to break key exchange algorithms has greatly decreased. 
 
 ### So, larger key sizes take longer to break, but who knows how quickly an ideal quantum computer could get the job done?  
 Key sizes have needed to get larger because of the demand to make them impenetrable, because these secret keys protect highly personal information, from credit cards details saved on websites to bank account information online. We are secure and comforted in the idea that a regular computer will take 300 trillion years to crack a 2048 bit RSA code. Shor's algorithm makes it clear that 2048 bits is nothing to a quantum computer equipped with 4099 qubits, which simplifies complexity of the problem from exponential complexity (x^N) to polynomial complexity (N^x), where N is bit size. 
